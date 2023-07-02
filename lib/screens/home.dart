@@ -19,7 +19,7 @@ class _HomeState extends State<Home> {
             end: Alignment.bottomCenter,
             colors: [
               Colors.deepPurple.shade300,
-              Colors.deepPurple.shade200,
+              Colors.deepPurple.shade500,
             ],
           ),
         ),
